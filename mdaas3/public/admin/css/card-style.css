@@ -1,0 +1,82 @@
+.dashboard-card {
+    background-color: #fff; margin: 5px 10px; padding: 10px; border-radius: 2%;
+    box-sizing: content-box;
+    
+}
+
+/* card border styling */
+
+.border-left-primary {
+    border-left: 0.5rem solid #4e73df !important;
+  }
+  
+  .border-bottom-primary {
+    border-bottom: 0.25rem solid #4e73df !important;
+  }
+  
+  .border-left-secondary {
+    border-left: 0.5rem solid #858796 !important;
+  }
+  
+  .border-bottom-secondary {
+    border-bottom: 0.25rem solid #858796 !important;
+  }
+  
+  .border-left-success {
+    border-left: 0.5rem solid #1cc88a !important;
+  }
+  
+  .border-bottom-success {
+    border-bottom: 0.25rem solid #1cc88a !important;
+  }
+  
+  .border-left-info {
+    border-left: 0.5rem solid #36b9cc !important;
+  }
+  
+  .border-bottom-info {
+    border-bottom: 0.25rem solid #36b9cc !important;
+  }
+  
+  .border-left-warning {
+    border-left: 0.5rem solid #f6c23e !important;
+  }
+  
+  .border-bottom-warning {
+    border-bottom: 0.25rem solid #f6c23e !important;
+  }
+  
+  .border-left-danger {
+    border-left: 0.5rem solid #e74a3b !important;
+  }
+  
+  .border-bottom-danger {
+    border-bottom: 0.25rem solid #e74a3b !important;
+  }
+  
+  .border-left-light {
+    border-left: 0.25rem solid #f8f9fc !important;
+  }
+  
+  .border-bottom-light {
+    border-bottom: 0.25rem solid #f8f9fc !important;
+  }
+  
+  .border-left-dark {
+    border-left: 0.5rem solid #5a5c69 !important;
+  }
+  
+  .border-bottom-dark {
+    border-bottom: 0.25rem solid #5a5c69 !important;
+  }
+
+  /* card border styling end*/
+
+  .card-data {
+    margin-top:-10px;
+  }
+
+.dashboard-card:hover{
+  color: rgb(71, 71, 71);
+  box-shadow: 5px 5px #f0f0f0;
+}

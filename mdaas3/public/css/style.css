@@ -1,0 +1,42 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-weight: 500;
+}
+
+.nav-links a {
+    color: #000 !important;
+    font-size: 18px;
+}
+
+.nav-links a:hover {
+    color: #178040 !important;
+}
+
+.form-inputs input {
+    border: 2px solid #8E8001;
+}
+
+.border-color {
+    border: 2px solid #8E8001;
+}
+#Form {
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%); 
+    border: 1px solid #c5c5c6; 
+    border-radius:10px;
+    padding: 50px 50px 50px 50px;
+    position: unset;
+}
+.col-md-6,
+.form-check,
+.form-check-input,
+.col
+{
+    position: unset;
+}
+
+#btnSubmit {
+    background-color: #8E8001;
+    border: none;
+}
+
